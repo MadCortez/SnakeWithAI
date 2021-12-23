@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.362,=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,D:\Папка Ильи\Змея\Unit1.pas=D:\Папка Ильи\Змея\UnitGame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Папка Ильи\Змея\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,D:\Папка Ильи\Змея\Project1.dproj=D:\Папка Ильи\Змея\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,D:\Папка Ильи\Змея\Project1.dproj=D:\Папка Ильи\Змея\Snake.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,D:\Папка Ильи\Змея\Unit1.dfm=D:\Папка Ильи\Змея\UnitGame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Папка Ильи\Змея\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,D:\Папка Ильи\Змея\UnitBot.pas=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,D:\Папка Ильи\Змея\UnitBot.pas=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,D:\Папка Ильи\Змея\Unit2.pas=D:\Папка Ильи\Змея\UnitMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,=D:\Папка Ильи\Змея\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,D:\Папка Ильи\Змея\UnitPlayer.pas=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,=C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\Илья\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,D:\Папка Ильи\Змея\UnitPlayer.pas=D:\Папка Ильи\Змея\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
